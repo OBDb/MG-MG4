@@ -1,6 +1,4 @@
 model_year: 2024
-can_id_format: ELEVEN_BIT
-extended_addressing_enabled: false
 supported_commands_by_ecu:
   7E4:
   - 0105:ECT
