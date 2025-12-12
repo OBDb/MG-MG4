@@ -1,0 +1,5 @@
+command_id: 7DF.7ED.22B05C
+test_cases:
+- expected_values:
+    MG4_HVBAT_COOLANT_TEMP: 15.5
+  response: 7ED0462B05C6F

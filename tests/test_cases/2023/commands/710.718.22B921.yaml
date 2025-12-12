@@ -1,0 +1,17 @@
+command_id: 710.718.22B921
+test_cases:
+- expected_values:
+    MG4_GWM_ODO: 58674
+  response: |-
+    718100962B92100E532
+    7182100E52740005028
+- expected_values:
+    MG4_GWM_ODO: 58674
+  response: |-
+    718100962B92100E532
+    7182100E52740005048
+- expected_values:
+    MG4_GWM_ODO: 58674
+  response: |-
+    718100962B92100E532
+    7182100E527400050B8
