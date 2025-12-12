@@ -1,0 +1,5 @@
+command_id: 7DF.7EC.22B001
+test_cases:
+- expected_values:
+    MG4_EVCC_CURRENT: 1
+  response: 7EC0562B0010805
