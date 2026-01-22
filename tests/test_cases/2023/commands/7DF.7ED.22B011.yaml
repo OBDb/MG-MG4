@@ -1,0 +1,22 @@
+command_id: 7DF.7ED.22B011
+test_cases:
+- expected_values:
+    MG4_HVBAT_CMU03_MINVOLT: 3.324
+  response: |-
+    7ED100A62B011122812
+    7ED212D7272D2000004
+- expected_values:
+    MG4_HVBAT_CMU03_MINVOLT: 3.324
+  response: |-
+    7ED100A62B011122812
+    7ED212E7272D2000004
+- expected_values:
+    MG4_HVBAT_CMU03_MINVOLT: 3.324
+  response: |-
+    7ED100A62B011122812
+    7ED212F7272D2000004
+- expected_values:
+    MG4_HVBAT_CMU03_MINVOLT: 3.326
+  response: |-
+    7ED100A62B011122C12
+    7ED21317272D2000004
