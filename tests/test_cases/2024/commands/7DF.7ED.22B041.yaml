@@ -1,0 +1,8 @@
+command_id: 7DF.7ED.22B041
+test_cases:
+- expected_values:
+    MG4_HVBAT_BUS_VOLTAGE: 399.5
+  response: 7ED0562B041063E
+- expected_values:
+    MG4_HVBAT_BUS_VOLTAGE: 399.75
+  response: 7ED0562B041063F
