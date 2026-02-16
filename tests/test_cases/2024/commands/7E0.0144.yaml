@@ -1,0 +1,11 @@
+command_id: 7E0.0144
+test_cases:
+- expected_values:
+    EQ_RAT: 1.00002
+  response: '7E80441448000'
+- expected_values:
+    EQ_RAT: 1.00002
+  response: "CAN ERROR\nNO DATA\n> 7DF.7ED.22B042\n22B061\nNO DATA\nNO DATA\n> 7DF.7EC.22B00F\nA6\nBUS
+    INIT: . . .UNABLE TO CONNECT\nCAN ERROR\nNO DATA\nOK\n> 7DF.7ED.22B009\n22B0B3\nNO
+    DATA\nNO DATA\n> 7DF.7ED.22B046\n22B112\nNO DATA\nCAN ERROR\nNO DATA\n> 7E0.7E8.010D\n7E8
+    04 41 44 80 00 "
