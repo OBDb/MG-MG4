@@ -1,0 +1,7 @@
+command_id: 710.718.22B921
+test_cases:
+- expected_values:
+    MG4_GWM_ODO: 9956
+  response: |-
+    718100962B9210026E4
+    718210026E4AAAAAAAA
