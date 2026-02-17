@@ -1,0 +1,32 @@
+command_id: 7E0.015B
+test_cases:
+- expected_values:
+    BAT_SOC: 84.31373
+  response: 7ED03415BD7
+- expected_values:
+    BAT_SOC: 84.70588
+  response: 7ED03415BD8
+- expected_values:
+    BAT_SOC: 84.31373
+  response: |-
+    7ED100A62B029122B12
+    7ED212F7373C1000004
+    7ED03415BD7
+- expected_values:
+    BAT_SOC: 84.70588
+  response: |-
+    7ED100A62B0B3122912
+    7ED212D7171C0000004
+    7ED100A62B0C3122A12
+    7ED212E7171C9000004
+    7ED0562B0612338
+    7ED03415BD8
+- expected_values:
+    BAT_SOC: 84.31373
+  response: |-
+    7ED100A62B115122A12
+    7ED212F7171BD000004
+    7ED0462B05C6F
+    7ED100A62B0BB122A12
+    7ED212E7171B1000004
+    7ED03415BD7

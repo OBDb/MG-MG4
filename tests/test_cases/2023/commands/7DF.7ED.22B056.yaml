@@ -1,0 +1,5 @@
+command_id: 7DF.7ED.22B056
+test_cases:
+- expected_values:
+    MG4_HVBAT_TEMP: 17.5
+  response: 7ED0562B0567304
