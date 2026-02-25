@@ -1,0 +1,10 @@
+command_id: 7DF.7EC.22B010
+test_cases:
+- expected_values:
+    MG4_EVCC_VOLTAGE: 675.60824
+  response: |-
+    7EC03410500
+    7EC0562B010FFFE
+- expected_values:
+    MG4_EVCC_VOLTAGE: 675.60824
+  response: 7EC0562B010FFFE
