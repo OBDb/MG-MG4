@@ -1,0 +1,14 @@
+command_id: 7DF.7ED.22B043
+test_cases:
+- expected_values:
+    MG4_HVBAT_CURRENT: 0
+  response: 7ED0562B0439ABC
+- expected_values:
+    MG4_HVBAT_CURRENT: 10
+  response: 7ED0562B0439DD0
+- expected_values:
+    MG4_HVBAT_CURRENT: 88.65
+  response: 7ED0562B043AA1A
+- expected_values:
+    MG4_HVBAT_CURRENT: 154.2
+  response: 7ED0562B043B458
