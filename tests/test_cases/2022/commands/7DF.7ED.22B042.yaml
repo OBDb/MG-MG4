@@ -1,0 +1,20 @@
+command_id: 7DF.7ED.22B042
+test_cases:
+- expected_values:
+    MG4_HVBAT_VOLTAGE: 383.5
+  response: |-
+    7ED0562B0410600
+    7ED100A62B019151015
+    7ED21199393ADAAAAAA
+    7ED100A62B0B3150915
+    7ED21139494A9AAAAAA
+    7ED0562B04205FE
+- expected_values:
+    MG4_HVBAT_VOLTAGE: 383.75
+  response: 7ED0562B04205FF
+- expected_values:
+    MG4_HVBAT_VOLTAGE: 384
+  response: 7ED0562B0420600
+- expected_values:
+    MG4_HVBAT_VOLTAGE: 386
+  response: 7ED0562B0420608
