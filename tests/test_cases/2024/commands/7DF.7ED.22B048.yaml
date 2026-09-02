@@ -1,0 +1,6 @@
+command_id: 7DF.7ED.22B048
+test_cases:
+- expected_values:
+    MG4_BMS_STATUS: 3
+    MG4_HVBAT_CHARGING: 1
+  response: 7ED0462B04803
