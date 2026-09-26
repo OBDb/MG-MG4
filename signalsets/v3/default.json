@@ -1,4 +1,7 @@
-{ "commands": [
+{ "ecu": [
+    { "hdr": "7DF", "rax": "7ED", "type": "battery" }
+  ],
+  "commands": [
 { "hdr": "710", "rax": "718", "dbg": true, "cmd": {"22": "B921"}, "freq": 1,
   "signals": [
     {"id": "MG4_GWM_ODO", "path": "Trips", "fmt": { "len": 24, "max": 4294967295, "unit": "kilometers" }, "name": "Odometer", "suggestedMetric": "odometer"}
