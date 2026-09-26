@@ -1,0 +1,5 @@
+command_id: 7DF.7ED.22B061
+test_cases:
+- expected_values:
+    MG4_HVBAT_SOH: 98
+  response: 7ED0562B0612648

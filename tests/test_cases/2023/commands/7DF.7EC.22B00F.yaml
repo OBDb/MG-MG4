@@ -1,0 +1,8 @@
+command_id: 7DF.7EC.22B00F
+test_cases:
+- expected_values:
+    MG4_EVCC_CHARGING: 0
+  response: 7EC0462B00F00
+- expected_values:
+    MG4_EVCC_CHARGING: 5
+  response: 7EC0462B00F05

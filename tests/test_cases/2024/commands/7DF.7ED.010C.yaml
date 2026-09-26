@@ -1,0 +1,5 @@
+command_id: 7DF.7ED.010C
+test_cases:
+- expected_values:
+    MG4_RPM: 16383.75
+  response: 7ED04410CFFFF

@@ -1,0 +1,11 @@
+command_id: 7DF.7ED.010D
+test_cases:
+- expected_values:
+    MG4_VSS: 3
+  response: 7ED03410D03
+- expected_values:
+    MG4_VSS: 37
+  response: 7ED03410D25
+- expected_values:
+    MG4_VSS: 42
+  response: 7ED03410D2A
