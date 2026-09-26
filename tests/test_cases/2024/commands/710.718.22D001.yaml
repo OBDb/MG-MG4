@@ -1,0 +1,5 @@
+command_id: 710.718.22D001
+test_cases:
+- expected_values:
+    MG4_GWM_STATUS: 51
+  response: 7180462D00133

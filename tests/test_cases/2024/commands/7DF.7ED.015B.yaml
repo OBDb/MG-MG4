@@ -1,0 +1,8 @@
+command_id: 7DF.7ED.015B
+test_cases:
+- expected_values:
+    MG4_SOC: 47.84314
+  response: 7ED03415B7A
+- expected_values:
+    MG4_SOC: 48.23529
+  response: 7ED03415B7B
