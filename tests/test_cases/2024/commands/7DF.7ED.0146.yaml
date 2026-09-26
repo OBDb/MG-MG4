@@ -1,0 +1,5 @@
+command_id: 7DF.7ED.0146
+test_cases:
+- expected_values:
+    MG4_AAT: 10
+  response: 7ED03414632
